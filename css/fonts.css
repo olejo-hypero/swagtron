@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'PFDinDisplayPro';
+    src: url('..//fonts//PFDinDisplay/PFDinDisplayPro.eot');
+    src: local('☺'), url('..//fonts//PFDinDisplay/PFDinDisplayPro.woff') format('woff'), url('..//fonts//PFDinDisplay/PFDinDisplayPro.ttf') format('truetype'), url('..//fonts//PFDinDisplay/PFDinDisplayPro.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
